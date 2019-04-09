@@ -1,2 +1,2 @@
-print('''this file is uploded to
-       the git''')
+a = input("enter string")
+print(a)
